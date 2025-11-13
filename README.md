@@ -1,4 +1,4 @@
-![GitHub Stats Card](https://github-readme-stats-one-swart-16.vercel.app/api?username=tkgstrator&count_private=true)
+![GitHub Stats Card](https://github-readme-stats-one-swart-16.vercel.app/api?username=tkgstrator&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats-one-swart-16.vercel.app/api/top-langs/?username=tkgstrator&count_private=true&layout=compact)
 
